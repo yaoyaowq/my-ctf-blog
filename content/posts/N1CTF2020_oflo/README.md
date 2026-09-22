@@ -4,7 +4,7 @@ date: 2026-09-22
 draft: false
 tags: ["Reverse", "ELF", "CTF"]
 categories: ["CTF"]
-ELF逆向：花指令
+---
 
 拿到题目先查壳和文件类型
 
